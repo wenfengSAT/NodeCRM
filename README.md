@@ -19,5 +19,5 @@ npm start
 
 ### 项目预览
 ![](http://static.zuidaima.com/images/126287/201703/20170312213735449_650x339.png)
-![](http://static.zuidaima.com/images/126287/201703/20170312214015630.png)
+
 ![](http://static.zuidaima.com/images/126287/201703/20170312214148421_650x339.png)
