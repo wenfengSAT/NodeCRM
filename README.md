@@ -1,6 +1,4 @@
-### NodeCRM 
-
-#### install
+### NodeCRM 开发步骤
 
 1:先导入数据库sql文件，更改数据库账号，在.config配置文件中修改
 
