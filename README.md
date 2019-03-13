@@ -1,5 +1,6 @@
 ### NodeCRM 开发步骤
 
+
 1:先导入数据库sql文件，更改数据库账号，在.config配置文件中修改
 
 2:安装后端nodejs需要的包
@@ -15,3 +16,8 @@ bower install
 ```shell
 npm start 
 ```
+
+### 项目预览
+![](http://static.zuidaima.com/images/126287/201703/20170312213735449_650x339.png)
+![](http://static.zuidaima.com/images/126287/201703/20170312214015630.png)
+![](http://static.zuidaima.com/images/126287/201703/20170312214148421_650x339.png)
